@@ -4,7 +4,6 @@ rencana konten wpu
  =framework js
  >vue
  >reac
- 
 -fundamental data 
 -php framework
 >laravel
